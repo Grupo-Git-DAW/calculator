@@ -5,6 +5,8 @@
  */
 package pruebagit;
 
+import static java.time.Clock.system;
+
 /**
  *
  * @author ThePechu
@@ -19,7 +21,7 @@ public class Pruebagit {
         
         /* PRUEBA */
         
-
+        System.out.println("Hola mundo");
 
         // TODO code application logic here
     }
