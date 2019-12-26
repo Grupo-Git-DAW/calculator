@@ -19,11 +19,11 @@ public class Pruebagit {
     public static void main(String[] args) {
         
         
-        /* PRUEBA 1*/
+        /* PRUEBA */
         
         System.out.println("Hola mundo");
         
-        /* PRUEBA 1*/
+        /* PRUEBA */
 
         // TODO code application logic here
     }
