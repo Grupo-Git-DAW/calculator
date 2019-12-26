@@ -1,24 +1,3 @@
-/*
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-// Ejemplo aprenderaprogramar.com
-int main() {
-    double M = -5.75; int N = 7; double Pi = 3.14159; //Equivale a 180 grados sexagesimales
-    printf ("El valor absolucto de M es %g y el de N es %g\n", fabs(M), fabs(N));
-    printf ("El coseno de Pi es %g\n", cos(Pi));        printf ("2 elevado al cubo vale %g\n", pow(2, 3));
-    printf ("El numero pi redondeado con ceil vale %g\n", ceil(Pi));
-    printf ("M redondeado con ceil vale %g\n", ceil(M));
-    printf ("El numero pi redondeado con floor vale %g\n", floor(Pi));
-    printf ("M redondeado con floor vale %g\n", floor(M)); printf ("-M redondeado con floor vale %g\n", floor(-M));
-    printf ("El numero e vale %g\n", exp(1)); printf ("El logaritmo neperiano de e vale %g\n", log(exp(1)));
-    printf ("El logaritmo decimal de 100 vale %g\n", log10(100));
-    printf ("La raiz cuadrada de 81 vale %g\n", sqrt(81));
-    return 0;
-    system("pause");
-}
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
