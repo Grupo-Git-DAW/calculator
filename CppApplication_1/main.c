@@ -201,10 +201,6 @@ void trigonometria()
         
     }
     
-/*    res=sen(a*PI/180);
-    
-    printf("El seno de %d es %lf", a, res);
-    system("pause");*/
 }
 
 
